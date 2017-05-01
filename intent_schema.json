@@ -1,7 +1,13 @@
 {
   "intents": [
     {
-      "intent": "Numberwang"
+      "intent": "NumberWang",
+      "slots": [
+        {
+          "name": "Number",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
     }
   ]
 }

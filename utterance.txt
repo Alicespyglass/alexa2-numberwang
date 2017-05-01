@@ -1,2 +1,11 @@
 NumberWang about {Number}
-NumberWang about forty two
+NumberWang {Number}
+NumberWang a {FactType} fact about {Number}
+
+Developer test console:
+"math fact about 888"
+
+Voice:
+"Alexa, let's NumberWang a trivia fact about 123"
+"Alexa, let's NumberWang about 666"
+"Alexa, NumberWang 22"

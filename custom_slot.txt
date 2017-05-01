@@ -1,0 +1,2 @@
+Custom slot type: FACT_TYPE
+Values: trivia, math

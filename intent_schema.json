@@ -1,11 +1,15 @@
 {
   "intents": [
     {
-      "intent": "NumberWang",
+      "intent": "NumberFun",
       "slots": [
         {
           "name": "Number",
           "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "FactType",
+          "type": "FACT_TYPE"
         }
       ]
     }
